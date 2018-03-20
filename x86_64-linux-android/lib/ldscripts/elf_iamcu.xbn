@@ -7,7 +7,7 @@ OUTPUT_FORMAT("elf32-iamcu", "elf32-iamcu",
 	      "elf32-iamcu")
 OUTPUT_ARCH(iamcu)
 ENTRY(_start)
-SEARCH_DIR("=/tmp/168f90421974a516da5309535960dde4/x86_64-linux-android/lib");
+SEARCH_DIR("=/tmp/1285d9c885c98a78fb8e48ce0e3cec51/x86_64-linux-android/lib");
 SECTIONS
 {
   /* Read-only sections, merged into text segment: */
