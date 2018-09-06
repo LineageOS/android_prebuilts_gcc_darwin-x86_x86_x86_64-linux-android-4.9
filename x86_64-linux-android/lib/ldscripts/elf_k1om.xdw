@@ -7,7 +7,7 @@ OUTPUT_FORMAT("elf64-k1om", "elf64-k1om",
 	      "elf64-k1om")
 OUTPUT_ARCH(k1om)
 ENTRY(_start)
-SEARCH_DIR("=/tmp/df6beb6750b9927229d2e3e11eb7ebc8/x86_64-linux-android/lib"); SEARCH_DIR("=/usr/local/lib"); SEARCH_DIR("=/lib"); SEARCH_DIR("=/usr/lib");
+SEARCH_DIR("=/tmp/495101bd8a848a5453d6e9ac17a08477/x86_64-linux-android/lib"); SEARCH_DIR("=/usr/local/lib"); SEARCH_DIR("=/lib"); SEARCH_DIR("=/usr/lib");
 SECTIONS
 {
   /* Read-only sections, merged into text segment: */
